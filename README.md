@@ -141,8 +141,9 @@ plt.show()
 # 2. Gender: Male students recorded a slightly higher sample mean average (67.18) compared to Female students (66.62).
 # 3. Hometown: Students from Luzon recorded the highest sample mean average (68.08), followed by Mindanao (66.67) and Visayas (65.75).
 
----
+
 ```
+---
 
 ## 📁 Project File Structure
 ├── GUINTO_ECE2112_PA4.ipynb  # Main Jupyter Notebook containing all executed cells 
