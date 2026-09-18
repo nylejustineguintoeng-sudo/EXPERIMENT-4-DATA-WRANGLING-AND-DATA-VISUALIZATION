@@ -150,9 +150,9 @@ plt.show()
 ---
 
 ## 📁 Project File Structure
-├── GUINTO_ECE2112_PA4.ipynb  # Main Jupyter Notebook containing all executed cells <br>
-├── README.md                 # Project documentation (this file) <br>
-└── board2.csv                # Source dataset containing student exam variables
+├── GUINTO_ECE2112_PA4.ipynb      `# Main Jupyter Notebook containing all executed cells` <br>
+├── README.md                     `# Project documentation (this file)` <br>
+└── board2.csv                    `# Source dataset containing student exam variables`
 
 
 ---
