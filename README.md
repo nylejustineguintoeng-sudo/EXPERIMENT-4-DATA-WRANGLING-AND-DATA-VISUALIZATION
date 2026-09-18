@@ -146,6 +146,7 @@ plt.show()
 
 ```
 </details>
+
 ---
 
 ## 📁 Project File Structure
