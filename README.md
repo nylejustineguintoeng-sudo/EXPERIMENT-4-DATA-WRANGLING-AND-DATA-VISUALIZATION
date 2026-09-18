@@ -1,7 +1,6 @@
-# Experiment 4: Data Wrangling and Data Visualization
+# 🔗 Experiment 4: Data Wrangling and Data Visualization
 
-**Name:** Guinto, Nyle Justine C.
-
+**Name:** Guinto, Nyle Justine C. <br>
 **Section:** 2ECE-A
 
 ---
@@ -51,6 +50,9 @@ This section covers the core tasks of the experiment, demonstrating various Pand
 *   **A. Visayas Communication DataFrame:** Computes the overall `Average` across subjects, then uses Boolean indexing `(df['Hometown'] == 'Visayas') & (df['Track'] == 'Communication')` to filter the data before column selection.
 *   **B. Visayas Female DataFrame:** Uses Boolean indexing `(df['Hometown'] == 'Visayas') & (df['Gender'] == 'Female')` to create the DataFrame, and filters rows where `Average >= 60` on the fly without overwriting `VisFemale`.
 *   **C. Category-Average Visualization:** Uses `.groupby()` to aggregate the data and calculate the mean for each category. Creates a figure with three subplots using `plt.subplots(1, 3)` to display the bar charts.
+
+<details>
+<summary><b>🔍 Click here to view the full Python Code Block</b></summary>
 
 ```python
 import pandas as pd
@@ -141,12 +143,11 @@ plt.show()
 # 2. Gender: Male students recorded a slightly higher sample mean average (67.18) compared to Female students (66.62).
 # 3. Hometown: Students from Luzon recorded the highest sample mean average (68.08), followed by Mindanao (66.67) and Visayas (65.75).
 
-
 ```
 ---
 
 ## 📁 Project File Structure
-├── GUINTO_ECE2112_PA4.ipynb  # Main Jupyter Notebook containing all executed cells 
+├── GUINTO_ECE2112_PA4.ipynb  # Main Jupyter Notebook containing all executed cells <br>
 ├── README.md                 # Project documentation (this file)
 └── board2.csv                # Source dataset containing student exam variables
 
