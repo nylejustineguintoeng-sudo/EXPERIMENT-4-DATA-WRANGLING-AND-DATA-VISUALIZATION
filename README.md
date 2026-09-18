@@ -142,9 +142,10 @@ plt.show()
 # 1. Track: Communication recorded the highest sample mean average (67.98), followed closely by Microelectronics (67.50) and Instrumentation (65.23).
 # 2. Gender: Male students recorded a slightly higher sample mean average (67.18) compared to Female students (66.62).
 # 3. Hometown: Students from Luzon recorded the highest sample mean average (68.08), followed by Mindanao (66.67) and Visayas (65.75).
-</details>
+
 
 ```
+</details>
 ---
 
 ## 📁 Project File Structure
