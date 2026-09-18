@@ -1,4 +1,4 @@
-# 🔗 Experiment 4: Data Wrangling and Data Visualization
+# Experiment 4: Data Wrangling and Data Visualization
 
 **Name:** Guinto, Nyle Justine C.
 
