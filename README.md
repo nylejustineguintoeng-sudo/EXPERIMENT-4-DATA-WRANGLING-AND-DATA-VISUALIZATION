@@ -149,23 +149,29 @@ plt.show()
 
 ---
 
-## 📈 Results & Interpretation
+Mean Average by Gender:
 
-**Mean `Average` per category**
+| | Gender | Average |
+| :--- | :--- | :--- |
+| **0** | Female | 66.616667 |
+| **1** | Male | 67.183333 |
 
-| Track | Mean | | Gender | Mean |
-| :--- | :--- | :--- | :--- | :--- |
-| Communication | 67.97 | | Female | 66.62 |
-| Instrumentation | 65.22 | | Male | 67.18 |
-| Microelectronics| 67.50 | | | |
+Mean Average by Hometown:
 
-**Interpretation statements**
+| | Hometown | Average |
+| :--- | :--- | :--- |
+| **0** | Luzon | 68.083333 |
+| **1** | Mindanao | 66.678571 |
+| **2** | Visayas | 65.750000 |
 
-1. Among the three tracks, **Communication** has the highest sample mean Average (67.97), followed by Microelectronics (67.50) and Instrumentation (65.22).
-2. Between the two genders, **Male** students have the higher sample mean Average (67.18) compared to Female students (66.62).
-3. Among the three hometowns, **Luzon** has the highest sample mean Average (68.08), ahead of Mindanao (66.68) and Visayas (65.75).
+*(Note: Add your generated plots here)*
 
-> These are sample means of the 30 records in this dataset only. The gaps between groups are small relative to the spread of the individual scores, and a difference in group...
+## Interpretation Statements
+
+1. **Track:** Communication recorded the highest sample mean average (67.98), followed closely by Microelectronics (67.50) and Instrumentation (65.23)[span_0](start_span)[span_0](end_span).
+2. **Gender:** Male students recorded a slightly higher sample mean average (67.18) compared to Female students (66.62)[span_1](start_span)[span_1](end_span).
+3. **Hometown:** Students from Luzon recorded the highest sample mean average (68.08), followed by Mindanao (66.67) and Visayas (65.75)[span_2](start_span)[span_2](end_span).
+
 
 ---
 
